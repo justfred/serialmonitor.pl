@@ -1,0 +1,3 @@
+serialmonitor.pl
+
+This program is designed to read SMDR from a PC or UNIX serial port using perl.  It could also be used to monitor other serial port data.
